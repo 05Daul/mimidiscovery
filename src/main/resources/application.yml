@@ -1,5 +1,6 @@
 server:
-  port: 5677
+ port: 5677
+
 spring:
   application:
     name: mimidiscovery
